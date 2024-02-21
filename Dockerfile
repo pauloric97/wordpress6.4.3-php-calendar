@@ -43,6 +43,7 @@ RUN set -ex; \
 		intl \
 		mysqli \
 		zip \
+  		calendar \
 	; \
 # https://pecl.php.net/package/imagick
 	pecl install imagick-3.6.0; \
